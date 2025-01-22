@@ -4,6 +4,8 @@ My personal portfolio, made with NextJS and styled using Tailwind CSS.
 
 [View the live version of the website here!](https://liao.gg)
 
+![Portfolio overview](./README/portfolio.png)
+
 ---
 
 ### 💡 Can I fork this repository and use the code for my own website?
