@@ -1,8 +1,8 @@
+This portfolio is now outdated! For the newest version, please visit: [https://github.com/kevinMEH/portfolio](https://github.com/kevinMEH/portfolio).
+
 # Portfolio
 
-My personal portfolio, made with NextJS and styled using Tailwind CSS.
-
-[View the live version of the website here!](https://liao.gg)
+Version 4 of my personal portfolio, made with NextJS and styled using Tailwind CSS.
 
 ![Portfolio overview](./README/portfolio.png)
 
