@@ -25,7 +25,7 @@ const Profile = () => {
                     <FontAwesomeIcon icon={faMedium} className="md:pb-[2px]" />
                     {/* <p className="hidden font-mono font-medium text-sm md:block">Medium</p> */}
                 </a>
-                <a aria-label="Mastodon Link" className="flex items-center space-x-3" href="https://linkedin.com/in/arnavpalawat" rel="me">
+                <a aria-label="Linkedin Link" className="flex items-center space-x-3" href="https://linkedin.com/in/arnavpalawat" rel="me">
                     <FontAwesomeIcon icon={faLinkedin} className="md:pb-[2px]" />
                     {/* <p className="hidden font-mono font-medium text-sm md:block">Mastodon</p> */}
                 </a>
