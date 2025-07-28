@@ -36,14 +36,13 @@ const Profile = () => {
             </div>
         </div>
         <h1 className="font-inter font-bold text-main-light dark:text-main-dark text-xl md:text-[22px] mb-1">
-            Hello! I'm Kevin Liao.
+            Hello! I'm Arnav Palawat.
         </h1>
         <p className="font-inter font-[475] text-sub-light dark:text-main-dark text-sm md:text-[15px] leading-snug md:leading-[1.4]">
-            I'm a full stack developer, designer, and software engineer from New York.
+            I'm a full stack developer and aspiring management consultant from the Greater Boston Area.
         </p>
     </div>
     )
 }
-// TODO: Credit: https://unsplash.com/photos/RsRTIofe0HE
 
 export default Profile;
