@@ -17,19 +17,19 @@ const Profile = () => {
             </div>
             {/* md:text-lg */}
             <div className="flex space-x-7 text-sub-light dark:text-sub-dark text-2xl self-end pr-1 pb-1 pt-4 md:pt-5">
-                <a aria-label="GitHub Link" className="flex items-center space-x-3" href="https://github.com/kevinMEH">
+                <a aria-label="GitHub Link" className="flex items-center space-x-3" href="https://github.com/arnavpalawat">
                     <FontAwesomeIcon icon={faGithub} className="md:pb-[2px]" />
                     {/* <p className="hidden font-mono font-medium text-sm md:block">GitHub</p> */}
                 </a>
-                <a aria-label="Medium Link" className="flex items-center space-x-3" href="https://liaogg.medium.com">
+                <a aria-label="Medium Link" className="flex items-center space-x-3" href="https://medium.com/@arnavpalawat">
                     <FontAwesomeIcon icon={faMedium} className="md:pb-[2px]" />
                     {/* <p className="hidden font-mono font-medium text-sm md:block">Medium</p> */}
                 </a>
-                <a aria-label="Mastodon Link" className="flex items-center space-x-3" href="https://mastodon.social/@kmeh" rel="me">
-                    <FontAwesomeIcon icon={faMastodon} className="md:pb-[2px]" />
+                <a aria-label="Mastodon Link" className="flex items-center space-x-3" href="https://linkedin.com/in/arnavpalawat" rel="me">
+                    <FontAwesomeIcon icon={faLinkedin} className="md:pb-[2px]" />
                     {/* <p className="hidden font-mono font-medium text-sm md:block">Mastodon</p> */}
                 </a>
-                <a aria-label="Email Link" className="flex items-center space-x-3" href="mailto:hello@liao.gg">
+                <a aria-label="Email Link" className="flex items-center space-x-3" href="mailto:arnavpalawat@gmail.com">
                     <FontAwesomeIcon icon={faEnvelope} className="md:pb-[2px]" />
                     {/* <p className="hidden font-mono font-medium text-sm md:block">Contact</p> */}
                 </a>
@@ -39,7 +39,7 @@ const Profile = () => {
             Hello! I'm Arnav Palawat.
         </h1>
         <p className="font-inter font-[475] text-sub-light dark:text-main-dark text-sm md:text-[15px] leading-snug md:leading-[1.4]">
-            I'm a full stack developer and aspiring management consultant from the Greater Boston Area.
+            I'm a high-school rising senior, full stack developer, and aspiring management consultant from the Greater Boston Area.
         </p>
     </div>
     )
